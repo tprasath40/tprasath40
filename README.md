@@ -45,16 +45,19 @@ Features include PDF/TXT ingestion, overlapping chunking, cosine-similarity top-
 
 [View CareGuide RAG API](https://github.com/tprasath40/careguide-rag)
 
-## Current Learning
+## AI Engineering Focus
 
-I am currently strengthening practical AI-enabled backend engineering through independently built projects covering:
+Recent work includes building and improving AI-enabled application workflows across:
 
-- Retrieval quality and evaluation
-- Dense embeddings and vector databases
-- Hybrid retrieval and reranking
-- LLM guardrails and prompt-injection protection
-- Docker and cloud deployment
+- LLM integration and grounded response generation
+- RAG pipelines, context retrieval and top-k selection
+- LangGraph-based conversational workflow orchestration
+- Prompt construction and conversation-state management
+- Guardrails, output validation and safe-response handling
+- Real-time response streaming using SSE
+- Token, latency and retrieval-quality optimization
 
+I am continuing to demonstrate and extend this experience through independently built public projects.
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/thiru-prasath-7945aa63/)
